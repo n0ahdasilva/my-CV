@@ -1,2 +1,2 @@
 # myCV
-My cover letter, CV, and resume of my career.
+My cover letter and CV/resume of my career.

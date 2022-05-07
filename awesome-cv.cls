@@ -9,7 +9,7 @@
 % http://www.posquit0.com
 %
 % Notes:
-% 1) This class file defines the structure and layout of the template file (cv.tex, resume.tex).
+% 1) This class file defines the structure and layout of the template file (cv.tex).
 % 2) It has been written in such a way that under most circumstances you
 % should not need to edit it.
 %
@@ -139,7 +139,7 @@
 \colorlet{sectiondivider}{gray}
 % Awesome colors
 \definecolor{awesome-emerald}{HTML}{00A388}
-\definecolor{awesome-skyblue}{HTML}{0395DE}
+\definecolor{awesome-skyblue}{HTML}{9AB5E1}
 \definecolor{awesome-red}{HTML}{DC3522}
 \definecolor{awesome-pink}{HTML}{EF4089}
 \definecolor{awesome-orange}{HTML}{FF6138}
