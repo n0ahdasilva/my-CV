@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1651961618 "cv.xdv" "cv.pdf" "cv" 1651961619
-  "cv.xdv" 1651961618 56652 79104772e693c7876d808029a111a92c "xelatex"
+["xdvipdfmx"] 1652984710 "cv.xdv" "cv.pdf" "cv" 1652984711
+  "cv.xdv" 1652984710 62804 965a3d665cf7f3479268f61ddf715099 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1651961617 "/Users/ndasilva/Documents/workspace/myCV/src/cv.tex" "cv.xdv" "cv" 1651961619
-  "/Users/ndasilva/Documents/workspace/myCV/src/cv.tex" 1651961559 3614 d036abef3c66156a0cfd97580426c5b6 ""
+["xelatex"] 1652984708 "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" "cv.xdv" "cv" 1652984711
+  "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" 1652969574 3637 5744defde5450951d5fb3a91d5f99a88 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -169,15 +169,16 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1651785855 5419891 c7d79057f01b66fc8c62a4b5c7227a2b ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "awesome-cv.cls" 1651961616 28871 ff98a8738b17966edd16caab7235881e ""
-  "cv.aux" 1651961618 596 8880cd1b75be858943eb25bacf44f66c "xelatex"
-  "cv.tex" 1651961559 3614 d036abef3c66156a0cfd97580426c5b6 ""
-  "cv/education.tex" 1651961376 1363 059a8a7219d572ebce474dbbdb3fa61d ""
-  "cv/experience.tex" 1651961413 3552 b2dfcbc2fc886c56335646c7cbafc6f3 ""
-  "cv/extracurricular.tex" 1651961486 1846 6cd93e708d6cc8b1c01a64906c0e7dbb ""
+  "awesome-cv.cls" 1652927768 28914 d966b85ddd70d0b620b70e1af09b669e ""
+  "cv.aux" 1652984710 596 8880cd1b75be858943eb25bacf44f66c "xelatex"
+  "cv.tex" 1652969574 3637 5744defde5450951d5fb3a91d5f99a88 ""
+  "cv/education.tex" 1652227067 1361 6ff7a592bd95b604ecc3495ac7e430e3 ""
+  "cv/experience.tex" 1652971199 4124 9b0c00634224c1db60436d89dbb4407a ""
+  "cv/extracurricular.tex" 1652982863 1629 1107f942131e05090a1d765c57dc16e7 ""
   "cv/honors.tex" 1651961376 1628 936d684b6f0026f14905811e7af1ea0d ""
-  "cv/skills.tex" 1651961481 1183 f843d44352a852d0f824138610499547 ""
-  "cv/summary.tex" 1651961543 888 7d44505323cdd8952a8e96d67909ed4d ""
+  "cv/projects.tex" 1652984708 1777 9416340786a382fcdcc1a4a0739f6705 ""
+  "cv/skills.tex" 1652926878 1504 1ce4d2729a3427a7ed64a931ff11a665 ""
+  "cv/summary.tex" 1652280818 1505 9efce048aaee9e0244790e61da076a2d ""
   (generated)
   "cv.aux"
   "cv.log"
