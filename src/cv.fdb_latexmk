@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1652985714 "cv.xdv" "cv.pdf" "cv" 1652985715
-  "cv.xdv" 1652985714 62784 d73ac7cad385b1e85d9dd0ae6fa9b8bf "xelatex"
+["xdvipdfmx"] 1653015834 "cv.xdv" "cv.pdf" "cv" 1653015834
+  "cv.xdv" 1653015834 62928 d411c3d248427a96a18a509c529679f7 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1652985712 "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" "cv.xdv" "cv" 1652985715
-  "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" 1652969574 3637 5744defde5450951d5fb3a91d5f99a88 ""
+["xelatex"] 1653015832 "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" "cv.xdv" "cv" 1653015834
+  "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" 1653015832 3638 01c1a56d76cd4f171e8cc1a57e20864e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -170,15 +170,14 @@
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1651785855 5419891 c7d79057f01b66fc8c62a4b5c7227a2b ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "awesome-cv.cls" 1652927768 28914 d966b85ddd70d0b620b70e1af09b669e ""
-  "cv.aux" 1652985714 596 8880cd1b75be858943eb25bacf44f66c "xelatex"
-  "cv.tex" 1652969574 3637 5744defde5450951d5fb3a91d5f99a88 ""
+  "cv.aux" 1653015834 596 8880cd1b75be858943eb25bacf44f66c "xelatex"
+  "cv.tex" 1653015832 3638 01c1a56d76cd4f171e8cc1a57e20864e ""
   "cv/education.tex" 1652227067 1361 6ff7a592bd95b604ecc3495ac7e430e3 ""
   "cv/experience.tex" 1652971199 4124 9b0c00634224c1db60436d89dbb4407a ""
-  "cv/extracurricular.tex" 1652982863 1629 1107f942131e05090a1d765c57dc16e7 ""
+  "cv/extracurricular.tex" 1653015725 1668 11e96e64074570b7e1af3009810fc04d ""
   "cv/honors.tex" 1651961376 1628 936d684b6f0026f14905811e7af1ea0d ""
-  "cv/projects.tex" 1652984708 1777 9416340786a382fcdcc1a4a0739f6705 ""
   "cv/skills.tex" 1652985712 1502 34c0bb20d8b7009ec775a9aab821aac2 ""
-  "cv/summary.tex" 1652280818 1505 9efce048aaee9e0244790e61da076a2d ""
+  "cv/summary.tex" 1653014898 1817 6b949089cae712ff86ce5a3a5c510fb8 ""
   (generated)
   "cv.aux"
   "cv.log"
