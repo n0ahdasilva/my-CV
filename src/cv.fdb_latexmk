@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1653346110 "cv.xdv" "cv.pdf" "cv" 1653346110
-  "cv.xdv" 1653346110 71356 7479333ed0c1ab39eec266e42de193d6 "xelatex"
+["xdvipdfmx"] 1653500547 "cv.xdv" "cv.pdf" "cv" 1653500547
+  "cv.xdv" 1653500547 71404 202ef2858df2a0fb8e058d3a15b666d3 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1653346108 "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" "cv.xdv" "cv" 1653346110
+["xelatex"] 1653500545 "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" "cv.xdv" "cv" 1653500547
   "/Users/ndasilva/Documents/workspace/my-CV/src/cv.tex" 1653166215 3636 afb481f471c2edef0da397f082ca8624 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -170,15 +170,15 @@
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1651785855 5419891 c7d79057f01b66fc8c62a4b5c7227a2b ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "awesome-cv.cls" 1652927768 28914 d966b85ddd70d0b620b70e1af09b669e ""
-  "cv.aux" 1653346110 596 8880cd1b75be858943eb25bacf44f66c "xelatex"
+  "cv.aux" 1653500547 596 8880cd1b75be858943eb25bacf44f66c "xelatex"
   "cv.tex" 1653166215 3636 afb481f471c2edef0da397f082ca8624 ""
   "cv/education.tex" 1653165236 1353 a1b5b48b7417bc7a68531e13cc4f72dd ""
-  "cv/experience.tex" 1653168927 4150 3393239849961517569c1eea4583e6bb ""
+  "cv/experience.tex" 1653500545 4152 764d15889b81e6d1023df1cec5f786ef ""
   "cv/extracurricular.tex" 1653346107 1672 1f3fc7c65496a7f224d6b4fc21e4bde0 ""
   "cv/honors.tex" 1651961376 1628 936d684b6f0026f14905811e7af1ea0d ""
-  "cv/projects.tex" 1653165557 2394 c455ec269b47ebe1d4ff9ba424ff64a5 ""
+  "cv/projects.tex" 1653499882 2397 80fd5a0339b1f81afd102efe5d6978f1 ""
   "cv/skills.tex" 1652985712 1502 34c0bb20d8b7009ec775a9aab821aac2 ""
-  "cv/summary.tex" 1653014898 1817 6b949089cae712ff86ce5a3a5c510fb8 ""
+  "cv/summary.tex" 1653500545 1818 077ecc77776e6f19282c57fd8fae9f5a ""
   (generated)
   "cv.aux"
   "cv.log"
